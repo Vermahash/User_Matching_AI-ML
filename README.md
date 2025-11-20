@@ -58,7 +58,7 @@ cd ai-real-estate-agent
 ### 3\. Install Dependencies
 
 ```bash
-pip install -r requirements2
+pip install -r requirements2.txt
 ```
 
 ### 4\. Setup the LLM (Llama 3.1)
@@ -112,5 +112,6 @@ The recommendation engine operates in **4 Distinct Layers**:
 
 This code is strictly for **educational and evaluation purposes** as part of a technical case study.
 Copyright (c) 2025 Harsh Verma. All rights reserved.
+
 
 
