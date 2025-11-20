@@ -80,7 +80,7 @@ Ensure your Excel dataset is placed correctly:
 
 -----
 
-## 🏃‍♂️ Usage
+## Usage
 
 1.  **Start the Server:**
     ```bash
@@ -97,7 +97,7 @@ Ensure your Excel dataset is placed correctly:
 
 -----
 
-## 🧠 System Architecture
+## System Architecture
 
 The recommendation engine operates in **4 Distinct Layers**:
 
@@ -110,7 +110,8 @@ The recommendation engine operates in **4 Distinct Layers**:
 
 -----
 
-## 📄 License
+## License
 
 This code is strictly for **educational and evaluation purposes** as part of a technical case study.
 Copyright (c) 2025 Harsh Verma. All rights reserved.
+
