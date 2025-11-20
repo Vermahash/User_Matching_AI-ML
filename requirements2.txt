@@ -1,0 +1,17 @@
+embedders==0.1.8
+embeddings==0.0.8
+faiss-cpu==1.13.0
+fastapi==0.121.2
+importlib_metadata==8.7.0
+ipykernel==7.1.0
+nupy==0.1.1
+openpyxl==3.1.5
+pip==25.3
+preprocessing==0.1.13
+python-multipart==0.0.20
+pywin32==311
+scoring==0.0.9
+seaborn==0.13.2
+statsmodels==0.14.5
+uvicorn==0.38.0
+wheel==0.45.1
