@@ -103,8 +103,6 @@ The recommendation engine operates in **4 Distinct Layers**:
 
 1.  **Retrieval Layer (FAISS):** Instantly narrows down the dataset from N to top 50 candidates based on semantic vector similarity.
 2.  **Filter Layer (Python):** Applies business logic.
-      * *Rule:* -$15 score per $100k over budget.
-      * *Rule:* -40 score for missing bedrooms.
 3.  **Scoring Layer (Weighted Avg):** Calculates a composite `System Score` (0-100) combining Vibe, Logic, and Topic keywords.
 4.  **Cognitive Layer (Llama 3.1):** The top 5 scored candidates are fed into the LLM with a "Truth Protocol" prompt. The LLM acts as the final decision-maker, generating the persuasive text displayed to the user.
 
@@ -114,4 +112,5 @@ The recommendation engine operates in **4 Distinct Layers**:
 
 This code is strictly for **educational and evaluation purposes** as part of a technical case study.
 Copyright (c) 2025 Harsh Verma. All rights reserved.
+
 
